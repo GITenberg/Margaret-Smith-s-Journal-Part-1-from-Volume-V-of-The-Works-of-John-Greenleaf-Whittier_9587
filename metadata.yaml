@@ -1,6 +1,10 @@
 _repo: Margaret-Smith-s-Journal-Part-1-from-Volume-V-of-The-Works-of-John-Greenleaf-Whittier_9587
+_version: 0.1.0
 alternative_title: Margaret Smith's Journal in the Province of Massachusetts Bay,
   1678-9
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Whittier, John Greenleaf
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/455
     wikipedia: http://en.wikipedia.org/wiki/John_Greenleaf_Whittier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9587#Margaret-Smith-s-Journal-Part-1-from-Volume-V-of-The-Works-of-John-Greenleaf-Whittier
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
 identifiers:
